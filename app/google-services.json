@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "670874726255",
+    "firebase_url": "https://sendzastage.firebaseio.com",
+    "project_id": "sendzastage",
+    "storage_bucket": "sendzastage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670874726255:android:78192602ef8e31d9",
+        "android_client_info": {
+          "package_name": "in.sendza.logistics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670874726255-q3atoc1gi8gmflshc0f30qvnitb3mvs0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.sendza.logistics",
+            "certificate_hash": "2155b6f09ca7f663432c0e04ae18273ba2ce165a"
+          }
+        },
+        {
+          "client_id": "670874726255-bcs5mb4vstntjmc8fai5h5b9dduj31c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPDpK1OjyeYFzo7Yn1BXOSvcxkPZPxdw4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670874726255-bcs5mb4vstntjmc8fai5h5b9dduj31c8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

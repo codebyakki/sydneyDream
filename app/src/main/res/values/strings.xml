@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sendza</string>
+    <string name="action_settings">Settings</string>
+    <string name="sendza">Sendza</string>
+    <string name="u00a9_sendza_in">© Sendza.in</string>
+    <string name="title_activity_login">Login</string>
+    <string name="camera_and_location_rationale">We need Gps ,Camera and Contacts Permission to deliver your goods.Please grant them.</string>
+    <string name="rationale_ask_ok">Grant</string>
+    <string name="rationale_ask_cancel">Cancel</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="login_message">Please Login to continue</string>
+</resources>
